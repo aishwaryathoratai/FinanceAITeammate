@@ -274,7 +274,7 @@ Clone the repository.
 ```bash
 git clone <repository-url>
 ```
-cd enterprise-finance-ai-teammate
+
 
 ```bash
 Create a Virtual Environment
