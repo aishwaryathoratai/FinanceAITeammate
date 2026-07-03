@@ -326,7 +326,8 @@ CSV files
 Generate embeddings.
 
 ```bash
-python vectorstore\create_embeddings.py
+python -m vectorstore.create_embeddings
+
 ```
 
 Generate Embeddings
