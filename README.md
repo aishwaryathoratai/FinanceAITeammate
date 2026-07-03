@@ -274,22 +274,66 @@ Clone the repository.
 ```bash
 git clone <repository-url>
 ```
+cd enterprise-finance-ai-teammate
 
+```bash
+Create a Virtual Environment
+
+python -m venv .venv
+
+.venv\Scripts\activate
+```
 Install dependencies.
 
 ```bash
 pip install -r requirements.txt
 ```
+Configure Environment Variables
+```bash
+Create a file named .env in the project root.
 
+Example:
+
+GROQ_API_KEY=your_groq_api_key_here
+
+Replace your_groq_api_key_here with your actual Groq API key.
+```
+Prepare the Dataset
+```bash
+Place all enterprise documents inside the data/ folder.
+
+Example:
+
+data/
+
+finance_policy.pdf
+
+leave_policy.pdf
+
+travel_policy.pdf
+
+it_support.pdf
+
+employee_handbook.pdf
+
+finance.csv
+
+The system supports:
+
+PDF documents
+CSV files
+```
 Generate embeddings.
 
 ```bash
 python create_embeddings.py
 ```
 
+Generate Embeddings
 Run the application.
 
-```bash
+```
+
 streamlit run app.py
 ```
 
