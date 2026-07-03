@@ -1,0 +1,101 @@
+ticket_id,employee_id,issue,resolution,status
+1,6,Missing receipt,Upload receipt,Open
+2,93,Missing receipt,Upload receipt,Closed
+3,22,Exceeded hotel limit,Policy violation,Closed
+4,82,Exceeded hotel limit,Policy violation,Open
+5,19,Missing receipt,Upload receipt,Open
+6,87,Approval pending,Manager approval required,Closed
+7,48,Approval pending,Manager approval required,Open
+8,63,Approval pending,Manager approval required,Open
+9,22,Missing receipt,Upload receipt,Open
+10,75,Approval pending,Manager approval required,Open
+11,56,Missing receipt,Upload receipt,Open
+12,50,Missing receipt,Upload receipt,Closed
+13,62,Exceeded hotel limit,Policy violation,Closed
+14,47,Missing receipt,Upload receipt,Closed
+15,26,Missing receipt,Upload receipt,Open
+16,33,Exceeded hotel limit,Policy violation,Closed
+17,67,Missing receipt,Upload receipt,Open
+18,60,Approval pending,Manager approval required,Closed
+19,1,Approval pending,Manager approval required,Open
+20,81,Approval pending,Manager approval required,Open
+21,48,Exceeded hotel limit,Policy violation,Open
+22,26,Missing receipt,Upload receipt,Closed
+23,92,Approval pending,Manager approval required,Open
+24,15,Missing receipt,Upload receipt,Open
+25,38,Exceeded hotel limit,Policy violation,Closed
+26,19,Approval pending,Manager approval required,Closed
+27,8,Approval pending,Manager approval required,Open
+28,38,Approval pending,Manager approval required,Open
+29,52,Exceeded hotel limit,Policy violation,Closed
+30,1,Approval pending,Manager approval required,Open
+31,76,Approval pending,Manager approval required,Closed
+32,6,Exceeded hotel limit,Policy violation,Closed
+33,67,Exceeded hotel limit,Policy violation,Closed
+34,25,Approval pending,Manager approval required,Open
+35,21,Missing receipt,Upload receipt,Closed
+36,93,Missing receipt,Upload receipt,Closed
+37,72,Missing receipt,Upload receipt,Open
+38,29,Approval pending,Manager approval required,Closed
+39,26,Approval pending,Manager approval required,Closed
+40,76,Approval pending,Manager approval required,Closed
+41,68,Missing receipt,Upload receipt,Closed
+42,53,Missing receipt,Upload receipt,Open
+43,3,Approval pending,Manager approval required,Open
+44,16,Approval pending,Manager approval required,Open
+45,8,Exceeded hotel limit,Policy violation,Closed
+46,21,Approval pending,Manager approval required,Closed
+47,20,Exceeded hotel limit,Policy violation,Closed
+48,10,Exceeded hotel limit,Policy violation,Closed
+49,67,Missing receipt,Upload receipt,Closed
+50,62,Approval pending,Manager approval required,Open
+51,100,Missing receipt,Upload receipt,Closed
+52,23,Missing receipt,Upload receipt,Closed
+53,59,Missing receipt,Upload receipt,Closed
+54,8,Exceeded hotel limit,Policy violation,Closed
+55,96,Exceeded hotel limit,Policy violation,Closed
+56,14,Approval pending,Manager approval required,Open
+57,41,Approval pending,Manager approval required,Closed
+58,84,Exceeded hotel limit,Policy violation,Open
+59,2,Exceeded hotel limit,Policy violation,Closed
+60,31,Missing receipt,Upload receipt,Closed
+61,51,Approval pending,Manager approval required,Open
+62,17,Approval pending,Manager approval required,Open
+63,66,Exceeded hotel limit,Policy violation,Open
+64,22,Missing receipt,Upload receipt,Closed
+65,61,Approval pending,Manager approval required,Closed
+66,28,Approval pending,Manager approval required,Open
+67,89,Exceeded hotel limit,Policy violation,Closed
+68,54,Exceeded hotel limit,Policy violation,Closed
+69,27,Exceeded hotel limit,Policy violation,Closed
+70,96,Approval pending,Manager approval required,Closed
+71,76,Approval pending,Manager approval required,Closed
+72,85,Approval pending,Manager approval required,Open
+73,19,Exceeded hotel limit,Policy violation,Open
+74,55,Approval pending,Manager approval required,Open
+75,34,Missing receipt,Upload receipt,Closed
+76,96,Missing receipt,Upload receipt,Open
+77,66,Missing receipt,Upload receipt,Open
+78,58,Missing receipt,Upload receipt,Open
+79,40,Approval pending,Manager approval required,Open
+80,79,Exceeded hotel limit,Policy violation,Closed
+81,11,Missing receipt,Upload receipt,Closed
+82,30,Approval pending,Manager approval required,Closed
+83,95,Exceeded hotel limit,Policy violation,Closed
+84,3,Exceeded hotel limit,Policy violation,Open
+85,37,Approval pending,Manager approval required,Closed
+86,59,Exceeded hotel limit,Policy violation,Open
+87,4,Approval pending,Manager approval required,Closed
+88,54,Exceeded hotel limit,Policy violation,Closed
+89,98,Missing receipt,Upload receipt,Open
+90,14,Approval pending,Manager approval required,Open
+91,17,Approval pending,Manager approval required,Open
+92,32,Missing receipt,Upload receipt,Closed
+93,75,Exceeded hotel limit,Policy violation,Open
+94,13,Exceeded hotel limit,Policy violation,Closed
+95,53,Exceeded hotel limit,Policy violation,Open
+96,15,Exceeded hotel limit,Policy violation,Open
+97,5,Approval pending,Manager approval required,Open
+98,81,Approval pending,Manager approval required,Open
+99,94,Exceeded hotel limit,Policy violation,Open
+100,85,Missing receipt,Upload receipt,Closed

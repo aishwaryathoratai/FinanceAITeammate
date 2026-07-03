@@ -1,0 +1,101 @@
+email_id,sender,receiver,subject,body,date
+1,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1985-08-30
+2,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2011-03-07
+3,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1998-05-28
+4,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2016-03-09
+5,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1984-08-04
+6,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1971-01-28
+7,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2007-07-01
+8,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1982-09-10
+9,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1972-10-17
+10,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1980-03-15
+11,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2005-04-16
+12,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1977-03-24
+13,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2013-04-26
+14,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1977-04-03
+15,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1989-01-22
+16,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1990-08-21
+17,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2013-01-14
+18,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2020-08-07
+19,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1989-12-13
+20,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1980-09-22
+21,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1998-09-25
+22,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2003-08-27
+23,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1976-02-16
+24,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2019-08-22
+25,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2004-06-03
+26,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2018-03-24
+27,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1972-11-26
+28,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1982-02-13
+29,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2004-08-17
+30,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2002-09-14
+31,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2017-12-06
+32,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1987-03-30
+33,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1986-05-14
+34,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2019-05-13
+35,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2011-01-20
+36,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2014-01-09
+37,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1980-07-16
+38,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2007-01-25
+39,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1980-12-19
+40,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2008-01-01
+41,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1975-01-11
+42,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2012-01-29
+43,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2018-03-30
+44,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2014-03-27
+45,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1994-02-06
+46,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1981-10-30
+47,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2000-06-05
+48,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2024-07-10
+49,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2001-03-11
+50,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1981-08-09
+51,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1999-09-11
+52,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1970-02-09
+53,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1971-11-20
+54,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1975-11-07
+55,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1970-06-28
+56,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2013-12-01
+57,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2004-06-01
+58,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1994-04-21
+59,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1990-08-18
+60,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2000-12-06
+61,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1996-08-26
+62,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1995-05-14
+63,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1982-02-04
+64,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2022-12-06
+65,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2000-09-03
+66,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2003-11-03
+67,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2003-03-22
+68,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2021-05-09
+69,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1985-02-01
+70,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1999-09-06
+71,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1978-07-17
+72,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1971-01-22
+73,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2007-01-03
+74,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2019-03-14
+75,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1980-12-24
+76,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2015-08-22
+77,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2024-09-30
+78,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1998-10-25
+79,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1993-12-16
+80,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1999-05-26
+81,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2005-11-18
+82,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2004-09-05
+83,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2018-05-08
+84,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1980-03-19
+85,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1978-03-22
+86,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1984-07-24
+87,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1997-11-24
+88,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2010-08-28
+89,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1982-05-09
+90,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,1984-11-24
+91,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,1990-05-08
+92,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1986-03-30
+93,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2008-07-19
+94,manager@company.com,finance@company.com,Expense Approval,Need receipt.,1996-01-28
+95,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2019-12-04
+96,manager@company.com,finance@company.com,Expense Approval,Approved hotel reimbursement.,2005-12-07
+97,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2018-08-23
+98,manager@company.com,finance@company.com,Expense Approval,Need receipt.,2021-11-12
+99,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2025-02-15
+100,manager@company.com,finance@company.com,Expense Approval,Approved meal claim.,2020-01-13
