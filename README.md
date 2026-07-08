@@ -155,7 +155,7 @@ The retrieved context is inserted into a prompt template.
 
 ### Step 6
 
-GPT-4.1-mini generates a grounded response.
+ChatGroq llm  generates a grounded response.
 
 ---
 
